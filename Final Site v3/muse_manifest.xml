@@ -1,0 +1,91 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="green.com" resolutions="1x" timestamp="1556109241850">
+  <folder name="css">
+    <file name="site_global.css" crc="4126867611"/>
+    <file name="nothing-and-everything.css" crc="91804566" ref="nothing-and-everything"/>
+    <file name="have-a-stroke_-mr-squidward.css" crc="4174924433" ref="have-a-stroke,-mr-squidward"/>
+    <file name="dancing.css" crc="3837301240" ref="dancing"/>
+    <file name="index.css" crc="294172271" ref="index"/>
+    <file name="blue-world-four.css" crc="3813123758" ref="blue-world-four"/>
+    <file name="television.css" crc="287312725" ref="television"/>
+    <file name="blue-world-1.css" crc="4121248808" ref="blue-world-1"/>
+    <file name="blue-world-five.css" crc="102914632" ref="blue-world-five"/>
+    <file name="dark-blue-world.css" crc="4232159228" ref="dark-blue-world"/>
+    <file name="blue-world-2.css" crc="3849056679" ref="blue-world-2"/>
+    <file name="oh-no.css" crc="3827426422" ref="oh-no"/>
+    <file name="blue-world-three.css" crc="4187717039" ref="blue-world-three"/>
+    <file name="the-orb.css" crc="148591261" ref="the-orb"/>
+    <file name="ah-jeez.css" crc="4259351377" ref="ah-jeez"/>
+  </folder>
+  <folder name="assets">
+    <file name="nightcore.mp3" crc="257062016" seo="true" mt="1555638609000"/>
+    <file name="crazy.mp3" crc="4042614280" seo="true" mt="1555639625000"/>
+    <file name="caramell.mp3" crc="402000616" seo="true" mt="1555639503000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blue-world-1:blue-world-2:blue-world-three:nothing-and-everything:the-orb:dancing:television:dark-blue-world:oh-no:ah-jeez:have-a-stroke,-mr-squidward:blue-world-four:blue-world-five"/>
+    <file name="museutils.js" crc="340535759" ref="index:blue-world-1:blue-world-2:blue-world-three:nothing-and-everything:the-orb:dancing:television:dark-blue-world:oh-no:ah-jeez:have-a-stroke,-mr-squidward:blue-world-four:blue-world-five"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blue-world-1:blue-world-2:blue-world-three:nothing-and-everything:the-orb:dancing:television:dark-blue-world:oh-no:ah-jeez:have-a-stroke,-mr-squidward:blue-world-four:blue-world-five"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:blue-world-1:blue-world-2:blue-world-three:nothing-and-everything:the-orb:dancing:television:dark-blue-world:oh-no:ah-jeez:have-a-stroke,-mr-squidward:blue-world-four:blue-world-five"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:blue-world-1:blue-world-2:blue-world-three:nothing-and-everything:the-orb:dancing:television:dark-blue-world:oh-no:ah-jeez:have-a-stroke,-mr-squidward:blue-world-four:blue-world-five"/>
+    <file name="require.js" crc="7928878" ref="index:blue-world-1:blue-world-2:blue-world-three:nothing-and-everything:the-orb:dancing:television:dark-blue-world:oh-no:ah-jeez:have-a-stroke,-mr-squidward:blue-world-four:blue-world-five"/>
+  </folder>
+  <folder name="images">
+    <file name="pain.gif" crc="406643090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the boys.png" crc="130357928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="who.png" crc="3999976094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drooling.png" crc="424704838" seo="true" ref="nothing-and-everything">
+      <caption webpage="nothing-and-everything" alt=""/>
+    </file>
+    <file name="the orb.gif" crc="4012889298" seo="true" ref="the-orb">
+      <caption webpage="the-orb" alt=""/>
+    </file>
+    <file name="dancing boy.gif" crc="215904562" seo="true" ref="dancing">
+      <caption webpage="dancing" alt=""/>
+    </file>
+    <file name="him sits.png" crc="3799259568" seo="true" ref="television">
+      <caption webpage="television" alt=""/>
+    </file>
+    <file name="tv-crop-u612.png" crc="75306973" seo="true" ref="television">
+      <caption webpage="television" alt=""/>
+    </file>
+    <file name="tv.png" crc="3997009623" seo="true" ref="television">
+      <caption webpage="television" alt=""/>
+      <caption webpage="television" alt=""/>
+    </file>
+    <file name="peeking.png" crc="415179173" seo="true" ref="television">
+      <caption webpage="television" alt=""/>
+    </file>
+    <file name="this is your boyfriend.jpg" crc="4048511447" seo="true" ref="have-a-stroke,-mr-squidward">
+      <caption webpage="have-a-stroke,-mr-squidward" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4211703837" seo="true" mt="1555935580476" redirect="true"/>
+  <file name="blue-world-1.html" crc="3868956739" seo="true" mt="1555510410028" redirect="true"/>
+  <file name="blue-world-2.html" crc="156929440" seo="true" mt="1555936855603" redirect="true"/>
+  <file name="blue-world-three.html" crc="4247748957" seo="true" mt="1556107993823" redirect="true"/>
+  <file name="nothing-and-everything.html" crc="4247885383" seo="true" mt="1555519058699" redirect="true"/>
+  <file name="the-orb.html" crc="4069559567" seo="true" mt="1555527637446" redirect="true"/>
+  <file name="dancing.html" crc="372052994" seo="true" mt="1556109111816" redirect="true"/>
+  <file name="television.html" crc="162870460" seo="true" mt="1556107556136" redirect="true"/>
+  <file name="dark-blue-world.html" crc="3867287889" seo="true" mt="1555937520132" redirect="true"/>
+  <file name="oh-no.html" crc="176088966" seo="true" mt="1555937093713" redirect="true"/>
+  <file name="ah-jeez.html" crc="294230123" seo="true" mt="1555937493624" redirect="true"/>
+  <file name="have-a-stroke,-mr-squidward.html" crc="4145012634" seo="true" mt="1556108053349" redirect="true"/>
+  <file name="blue-world-four.html" crc="487879972" seo="true" mt="1556107971661" redirect="true"/>
+  <file name="blue-world-five.html" crc="3898522535" seo="true" mt="1556108411562" redirect="true"/>
+</manifest>
